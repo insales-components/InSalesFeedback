@@ -6,7 +6,7 @@
   "type": "plugin",
   "homepage": "https://github.com/insales-components/InSalesFeedback",
   "plugins": [{
-      "name": "InSalesFeedback",
+      "name": "InSalesFeedback.js",
       "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/InSalesFeedback@0.15.4/dist/feedback.js"]
     }],
   "props": {
