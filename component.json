@@ -1,13 +1,13 @@
 {
   "name": "InSalesFeedback",
-  "version": "0.15.4",
+  "version": "0.15.6",
   "description": "Плагин для отправки сообщений на платформе InSales",
   "author": "LiquidHub.ru",
   "type": "plugin",
   "homepage": "https://github.com/insales-components/InSalesFeedback",
   "plugins": [{
       "name": "InSalesFeedback.js",
-      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/InSalesFeedback@0.15.4/dist/feedback.js"]
+      "files": ["https://cdn.jsdelivr.net/gh/VladimirIvanin/InSalesFeedback@0.15.6/dist/feedback.js"]
     }],
   "props": {
     "plugins": false,
